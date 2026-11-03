@@ -1,5 +1,9 @@
 # Limulus
 
+> **Active development:** Limulus is under active development, and breaking changes are still occurring.
+> Features, APIs, and file formats may change between versions.
+> **We welcome your feedback!** [Report a bug, suggest a feature, or share your experience](https://github.com/LimulusGraph/clients/issues).
+
 **One experiment. Many universes.**
 
 Limulus is a visual Python workspace for exploring data pipelines and training

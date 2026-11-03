@@ -18,6 +18,10 @@
 
 ---
 
+> **Active development:** Limulus is under active development, and breaking changes are still occurring.
+> Features, APIs, and file formats may change between versions.
+> **We welcome your feedback!** [Report a bug, suggest a feature, or share your experience](https://github.com/LimulusGraph/clients/issues).
+
 Branch a data pipeline, try a different model, and follow both ideas to their
 results. Limulus is a node-based alternative to notebooks: your Python files form
 a graph, and every complete path through that graph becomes its own experiment.
